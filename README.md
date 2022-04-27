@@ -12,6 +12,6 @@ Me chamo Erick, sou estudante de Desenvolvimento Web e sou de São Paulo, SP. Es
 </div>
 <br>
 <div>
-  <a href="https://github.com/otonalmeidas">
+  <a href="https://github.com/erickalmeida86">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickalmeida86&layout=compact&langs_count=7&theme=dark"/>
 </div>
