@@ -12,6 +12,6 @@ Me chamo Erick, sou estudante de Desenvolvimento Web e sou de São Paulo, SP. Es
 </div>
 <br>
 <div>
-  <a href="https://github.com/oerickap">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oerickap&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/euerickap">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euerickap&layout=compact&langs_count=7&theme=dark"/>
 </div>
