@@ -3,15 +3,15 @@
 Me chamo Erick, sou estudante de Desenvolvimento Web e sou de São Paulo, SP. Este é o meu lab, quero aqui poder registrar meu aprendizado através de projetos e contribuições, além de desenvolver meu portfólio. Tenho certeza de que será uma ótima trajetória!
 
 <div>
-  <a href="https://www.linkedin.com/in/erick86/" target="_blank">
+  <a href="https://www.linkedin.com/in/erickalmeidap/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/erickalmeida86/" target="_blank">
+  <a href="https://www.instagram.com/erickalmeidap/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
 <br>
 <div>
-  <a href="https://github.com/erickalmeida86">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickalmeida86&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/erickalmeidap">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickalmeidap&layout=compact&langs_count=7&theme=dark"/>
 </div>
