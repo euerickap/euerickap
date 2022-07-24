@@ -1,17 +1,14 @@
-### Olá ✌️
+# Erick Almeida
 
-Me chamo Erick, sou estudante de Desenvolvimento Web e sou de São Paulo, SP. Este é o meu lab, quero aqui poder registrar meu aprendizado através de projetos e contribuições, além de desenvolver meu portfólio. Tenho certeza que será uma ótima trajetória!
+### Estudante de Desenvolvimento Front-End
 
-<div>
-  <a href="https://www.linkedin.com/in/euerickap/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/euerickap/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
-<br>
+[![E-mail Badge](https://img.shields.io/badge/-erick.almeida86@hotmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erick.almeida86@hotmail.com)](mailto:erick.almeida86@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Erick%20de%20Almeida%20Pereira-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/euerickap/)](https://www.linkedin.com/in/euerickap/)
+[![Instagram Badge](https://img.shields.io/badge/-@euerickap-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/euerickap/)](https://www.instagram.com/euerickap/)
+
+Atualmente com 26 anos, buscando oportunidades na área de Desenvolvimento Front-End. Aqui estão meus projetos pessoais e contribuições.
+
 <div>
   <a href="https://github.com/euerickap">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euerickap&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euerickap&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
