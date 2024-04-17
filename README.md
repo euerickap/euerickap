@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Erick%20de%20Almeida%20Pereira-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/euerickap/)](https://www.linkedin.com/in/euerickap/)
 [![Instagram Badge](https://img.shields.io/badge/-@euerickap-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/euerickap/)](https://www.instagram.com/euerickap/)
 
-Atualmente com 27 anos, buscando oportunidades na área de Desenvolvimento Front-End. Aqui estão meus projetos pessoais e contribuições.
+Atualmente com 28 anos, buscando oportunidades na área de Desenvolvimento Front-End. Aqui estão meus projetos pessoais e contribuições.
 
 <div>
   <a href="https://github.com/euerickap">
