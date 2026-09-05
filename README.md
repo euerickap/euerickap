@@ -10,5 +10,5 @@ Atualmente com 30 anos, buscando oportunidades na área de Desenvolvimento Front
 
 <div>
   <a href="https://github.com/euerickap">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euerickap&layout=compact&langs_count=7&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euerickap&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
 </div>
