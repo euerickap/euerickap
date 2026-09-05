@@ -8,7 +8,8 @@
 
 Atualmente com 30 anos, buscando oportunidades na área de Desenvolvimento Front-End. Aqui estão meus projetos pessoais e contribuições.
 
-<div>
-  <a href="https://github.com/euerickap">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euerickap&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=euerickap&layout=compact&langs_count=7&theme=github_dark&hide_border=true"
+  alt="Linguagens mais usadas"
+  width="400"
+/>
