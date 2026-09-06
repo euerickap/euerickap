@@ -7,8 +7,3 @@
 [![Instagram Badge](https://img.shields.io/badge/-@euerickap-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/euerickap/)](https://www.instagram.com/euerickap/)
 
 Atualmente com 30 anos, buscando oportunidades na área de Desenvolvimento Front-End. Aqui estão meus projetos pessoais e contribuições.
-
-<div>
-  <a href="https://github.com/euerickap"></a> 
-  <img src="https://github-readme-stats-vercel-seven.vercel.app/api/top-langs/?username=euerickap&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
